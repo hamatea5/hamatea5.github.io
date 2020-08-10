@@ -1,0 +1,18 @@
+body {
+    font-family: segoe ui light;
+    text-align: center;
+}
+h1 {
+    color: darkgreen;
+}
+p {font-size: 24px; color: darkkhaki;}
+.content p:nth-child(2){color: red;}
+.content p:nth-child(3){color: lightcoral}
+.content p:nth-child(4){color: darkcyan}
+.content p:nth-child(5){color: palevioletred}
+img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center center;
+}
